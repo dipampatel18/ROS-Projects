@@ -10,6 +10,7 @@ Download the [Gazebo Simulator](http://wiki.ros.org/simulator_gazebo/Tutorials/S
 ```sudo apt-get install ros-%YOUR_ROS_DISTRO%-simulator-gazebo```
 
 For kinetic and indigo, use the following command
+
 ```sudo apt-get install ros-kinetic-simulators```
 
 #### Launching
@@ -19,7 +20,12 @@ For kinetic and indigo, use the following command
 ```roslaunch gazebo_worlds empty_world.launch```
 
 For kinetic and indigo, use the following command
+
 ```roslaunch gazebo_ros empty_world.launch```
+
+<p align="center">
+  <img width="720" height="380" src="/images/Gazebo Empty World.png">
+</p>
 
 ### References
 

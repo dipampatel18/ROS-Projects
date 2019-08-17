@@ -24,7 +24,7 @@ For kinetic and indigo, use the following command
 ```roslaunch gazebo_ros empty_world.launch```
 
 <p align="center">
-  <img width="700" height="380" src="/images/Gazebo Empty World.png">
+  <img width="700" height="380" src="/images/Gazebo Empty World.jpg">
 </p>
 
 ### References

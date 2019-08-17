@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dipam/ROS-Projects/Two Wheeled Robot/twr_ws/install/setup.sh

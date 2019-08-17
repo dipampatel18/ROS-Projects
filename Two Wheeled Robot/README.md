@@ -24,10 +24,8 @@ For kinetic and indigo, use the following command
 ```roslaunch gazebo_ros empty_world.launch```
 
 <p align="center">
-  <img width="700" height="380" src="/Two Wheeled Robot/images/Gazebo_Empty_World.jpg">
+  <img width="700" height="380" src="/Two Wheeled Robot/images/Gazebo_Empty_World.png">
 </p>
-
-![Gazebo](images/Gazebo_Empty_World.jpg)
 
 ### References
 

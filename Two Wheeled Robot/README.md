@@ -27,7 +27,7 @@ For kinetic and indigo, use the following command
   <img width="700" height="380" src="/Two Wheeled Robot/images/Gazebo Empty World.jpg">
 </p>
 
-![Gazebo](images/Gazebo Empty World.png)
+![Gazebo](images/Gazebo Empty World.jpg)
 
 ### References
 
